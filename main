@@ -1,4 +1,4 @@
-# Complete code
+# Todo App from command line
 import sys
 import datetime
 
